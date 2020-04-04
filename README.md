@@ -1,0 +1,2 @@
+# learning_note_for_numpy
+ learning_note_for_numpy
